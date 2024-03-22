@@ -16,13 +16,35 @@ Configuration: Closed
 Direction:     Forward
 Mirror:        Off
 Date:          22/03/2024
-Time:          14:01:51
+Time:          14:31:59
 ==================================================================
 Track generation started.
 Pre-processing completed.
 Fine meshing completed with mesh size: 5 [m]
-{rotz requires <a href="matlab:matlab.internal.addons.launchers.showExplorer('ErrorRecovery', 'identifier', 'AR', 'focused', 'rotz');">Phased Array System Toolbox</a>.
-
-Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('OpenTRACK', 'C:\Users\lucas\Documents\Controle\Simulador\OpenLAP-Lap-Time-Simulator-master\OpenTRACK.m', 449)" style="font-weight:bold">OpenTRACK</a> (<a href="matlab: opentoline('C:\Users\lucas\Documents\Controle\Simulador\OpenLAP-Lap-Time-Simulator-master\OpenTRACK.m',449,0)">line 449</a>)
-    xyz = rotz(angle_head(i-1))*[dx(i-1);0;0]+p ;
-} 
+Apex calculation completed.
+Track rotated.
+Closing fine mesh map.
+Fine mesh map closed.
+Fine mesh map created.
+Plots created and saved.
+Track generated successfully.
+Map:
+   oooooooooooooooooooooooooooooooooooooooo oooooooooo             
+ ooo                                      ooo        oooo          
+oo                                                      ooo        
+oo                                                        oo       
+ oooooooooooooooooooooo                                    o       
+                      ooooooooooo                          oo      
+                                ooooooo                     o      
+                                      oo                    o      
+                                       ooo                  oo     
+                                         ooo                 o     
+                                           ooo               o     
+                                             ooo             ooo   
+                                               ooo             oo  
+                                                 oo             o  
+                                                  ooo           oo 
+                                                    oo           oo
+                                                     oo           o
+                                                       oo       ooo
+                                                        ooooooooo  
