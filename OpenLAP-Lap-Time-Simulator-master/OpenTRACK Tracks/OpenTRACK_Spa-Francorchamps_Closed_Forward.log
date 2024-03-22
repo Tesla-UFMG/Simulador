@@ -1,0 +1,29 @@
+_______                    ____________________________________ __
+__  __ \______________________  __/__  __ \__    |_  ____/__  //_/
+_  / / /__  __ \  _ \_  __ \_  /  __  /_/ /_  /| |  /    __  ,<   
+/ /_/ /__  /_/ /  __/  / / /  /   _  _, _/_  ___ / /___  _  /| |  
+\____/ _  .___/\___//_/ /_//_/    /_/ |_| /_/  |_\____/  /_/ |_|  
+       /_/                                                        
+==================================================================
+C:\Users\lucas\Documents\Controle\Simulador\OpenLAP-Lap-Time-Simulator-master\Spa-Francorchamps.xlsx
+File read successfully
+==================================================================
+Name:          Spa-Francorchamps
+City:          Francorchamps
+Country:       Belgium
+Type:          Permanent
+Configuration: Closed
+Direction:     Forward
+Mirror:        Off
+Date:          22/03/2024
+Time:          13:34:17
+==================================================================
+Track generation started.
+Pre-processing completed.
+Fine meshing completed with mesh size: 1 [m]
+{rotz requires <a href="matlab:matlab.internal.addons.launchers.showExplorer('ErrorRecovery', 'identifier', 'AR', 'focused', 'rotz');">Phased Array System Toolbox</a>.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('OpenTRACK', 'C:\Users\lucas\Documents\Controle\Simulador\OpenLAP-Lap-Time-Simulator-master\OpenTRACK.m', 449)" style="font-weight:bold">OpenTRACK</a> (<a href="matlab: opentoline('C:\Users\lucas\Documents\Controle\Simulador\OpenLAP-Lap-Time-Simulator-master\OpenTRACK.m',449,0)">line 449</a>)
+    xyz = rotz(angle_head(i-1))*[dx(i-1);0;0]+p ;
+} 
+uiopen('C:\Users\lucas\Documents\Controle\Simulador\OpenLAP-Lap-Time-Simulator-master\OpenLAP.m',1)
