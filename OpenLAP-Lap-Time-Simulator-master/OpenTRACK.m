@@ -59,17 +59,17 @@ fclose('all') ;
 %% Track file selection
 
 % filename = 'Paul Ricard data.csv' ;
-% filename = 'Spa-Francorchamps.xlsx' ;
+filename = 'C:\Users\lucas\Documents\Controle\Simulador\OpenLAP-Lap-Time-Simulator-master\Autodromo Nazionale Monza.xlsx' ;
 % filename = 'Monza Data.csv' ;
 % filename = 'OpenTRACK Laguna Seca Data.csv' ;
 % filename = 'OpenTRACK Paul Ricard Data.csv' ;
-filename = 'OpenTRACK_FSAE_UK_Endurance_2015.xlsx' ;
+% filename = 'OpenTRACK_FSAE_UK_Endurance_2015.xlsx' ;
 % filename = 'OpenTRACK KZ2 Kart Data - Rhodes.csv' ;
 % filename = 'OpenTRACK KZ2 Kart Data - Athens.csv' ;
 
 %% Mode selection
 
-% mode = 'logged data' ;
+%mode = 'logged data' ;
 mode = 'shape data' ;
 % log_mode = 'speed & yaw' ;
 log_mode = 'speed & latacc' ;
@@ -77,7 +77,7 @@ log_mode = 'speed & latacc' ;
 %% Settings
 
 % meshing
-mesh_size = 1 ; % [m]
+mesh_size = 5 ; % [m]
 % filtering for logged data mode
 filter_dt = 0.1 ; % [s]
 % track map rotation angle
