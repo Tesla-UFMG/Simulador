@@ -59,7 +59,7 @@ fclose('all') ;
 %% Track file selection
 
 % filename = 'Paul Ricard data.csv' ;
-filename = 'C:\Users\lucas\Documents\Controle\Simulador\OpenLAP-Lap-Time-Simulator-master\Autodromo Nazionale Monza.xlsx' ;
+filename = "C:\Users\lucas\Desktop\Controle\Simulador\Simulador\OpenLAP-Lap-Time-Simulator-master\Autodromo Nazionale Monza.xlsx" ;
 % filename = 'Monza Data.csv' ;
 % filename = 'OpenTRACK Laguna Seca Data.csv' ;
 % filename = 'OpenTRACK Paul Ricard Data.csv' ;
