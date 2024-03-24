@@ -16,7 +16,11 @@ Configuration: Closed
 Direction:     Forward
 Mirror:        Off
 Date:          22/03/2024
+<<<<<<< HEAD
 Time:          14:32:06
+=======
+Time:          14:31:59
+>>>>>>> b51601844a092232d2ad935945d303d5ee3ec4e2
 ==================================================================
 Track generation started.
 Pre-processing completed.
