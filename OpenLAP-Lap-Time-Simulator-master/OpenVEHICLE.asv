@@ -39,7 +39,7 @@ fclose('all') ;
 
 %% Vehicle file selection
 
-filename = 'C:\Users\lucas\Documents\Controle\Simulador\OpenLAP-Lap-Time-Simulator-master\100%NK624.xlsx' ;
+filename = '100%NK624.xlsx' ;
 
 %% Reading vehicle file
 

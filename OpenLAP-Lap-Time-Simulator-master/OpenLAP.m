@@ -48,8 +48,8 @@ tic
 
 %% Filenames
 
-trackfile = 'OpenTRACK Tracks/OpenTRACK_Spa-Francorchamps_Closed_Forward.mat' ;
-vehiclefile = 'OpenVEHICLE Vehicles/OpenVEHICLE_Formula 1_Open Wheel.mat' ;
+trackfile = 'C:\Users\lucas\Documents\Controle\Simulador\OpenLAP-Lap-Time-Simulator-master\OpenTRACK Tracks\OpenTRACK_Autodromo Nazionale Monza_Closed_Forward.mat' ;
+vehiclefile = 'C:\Users\lucas\Documents\Controle\Simulador\OpenLAP-Lap-Time-Simulator-master\OpenVEHICLE Vehicles/OpenVEHICLE_NK 624 100%_Open Wheel.mat' ;
 
 %% Loading circuit
 
